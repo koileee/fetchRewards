@@ -3,6 +3,8 @@ fetching rewards backend service
 
 ## To run the app
 
+Clone this repo
+
 Move into the directory
 `cd fetchRewards`
 
